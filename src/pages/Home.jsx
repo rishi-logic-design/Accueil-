@@ -3,7 +3,7 @@ import Nav from "../components/page1/Nav";
 
 function Home() {
   return (
-    <div>
+    <div className="bg-black text-white">
         <Nav/>
     </div>
   );
